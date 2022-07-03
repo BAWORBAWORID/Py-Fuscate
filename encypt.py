@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
+# Janga Di Ubah Suuu
 # By Sandaru Ashen: https://github.com/BAWORBAWORID
 
 
